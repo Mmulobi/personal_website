@@ -119,6 +119,8 @@ Home Page:
 Projects Section:
 ---
 ### **Contact Information**
+
+---
 Feel free to reach out to me via:
 
 Email: mulobi4@gmail.com
@@ -127,6 +129,7 @@ GitHub: Mmulobi
 Portfolio Live Demo: https://your-portfolio-demo.com
 ---
 ### **License**
+
 This project is licensed under the MIT License. You are free to use and customize it for your own purposes.
 ---
 ### **Contributing**
