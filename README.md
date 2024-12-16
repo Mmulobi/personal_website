@@ -117,27 +117,27 @@ Screenshots
 Home Page:
 
 Projects Section:
-
-Contact Information
+---
+### **Contact Information**
 Feel free to reach out to me via:
 
 Email: mulobi4@gmail.com
 LinkedIn: Your LinkedIn Profile
 GitHub: Mmulobi
 Portfolio Live Demo: https://your-portfolio-demo.com
-License
+---
+### **License**
 This project is licensed under the MIT License. You are free to use and customize it for your own purposes.
-
-Contributing
+---
+### **Contributing**
 Contributions are welcome! If you have suggestions for improvements or features, feel free to fork this repository, create a new branch, and submit a pull request.
 
-bash
-Copy code
+
 git checkout -b feature/your-feature
 git commit -m "Add your feature"
 git push origin feature/your-feature
-
-Acknowledgements
+---
+### **Acknowledgements**
 Thanks to all the tools, libraries, and resources that made this project possible:
 
 Tailwind CSS
