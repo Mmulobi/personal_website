@@ -11,7 +11,7 @@ export default function Hero() {
           <div className="text-center md:text-left">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6 space-y-4">
               <TypewriterText 
-                text="Full Stack Developer"
+                text="Full Stack Software Developer"
                 className="block"
                 speed={80}
               />
