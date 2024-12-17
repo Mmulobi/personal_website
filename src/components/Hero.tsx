@@ -49,7 +49,7 @@ export default function Hero() {
           >
             <div className="w-full max-w-md mx-auto aspect-square rounded-2xl shadow-2xl overflow-hidden">
               <img 
-                src="/src/assets/images/profile.jpg"
+                src="/src/assets/images/moses.jpg"
                 alt="Moses Mulobi"
                 className="w-full h-full object-cover"
               />
