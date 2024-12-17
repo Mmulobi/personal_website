@@ -9,11 +9,12 @@ export default function Skills() {
       <Container>
         <SectionTitle>Technical Skills</SectionTitle>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {Object.entries(SKILLS).map(([category, skills]) => (
+          {Object.entries(SKILLS).map(([category, skills], index) => (
             <SkillCard
               key={category}
               category={category}
               skills={skills}
+              delay={index * 0.2}
             />
           ))}
         </div>
