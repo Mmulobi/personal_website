@@ -7,4 +7,20 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  build: {
+    minify: 'terser',
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ['react', 'react-dom'],
+          '3d-components': ['@react-three/fiber', '@react-three/drei'],
+        },
+      },
+    },
+  },
+  server: {
+    hmr: {
+      overlay: false,
+    },
+  },
 });
